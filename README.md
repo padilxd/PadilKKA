@@ -26,5 +26,20 @@ Refleksi Siswa
  ➡️ Ya, AI sangat membantu dalam analisis data.
  AI bisa menjelaskan hasilnya, memberi saran, bahkan membantu menulis kode Python untuk membuat visualisasi atau menemukan pola dalam data dengan lebih cepat.
 
+2<img width="1245" height="48" alt="Hasil  modus" src="https://github.com/user-attachments/assets/c79a0711-a417-4f58-965d-6bd75908d67a" />
+<img width="1536" height="754" alt="grafik_kka" src="https://github.com/user-attachments/assets/b4a722dc-1c59-47cf-a0d1-5554acfd29bc" />
+<img width="1536" height="754" alt="boxplot_kka" src="https://github.com/user-attachments/assets/80bf9297-a550-4844-b38d-db55a779b670" />
+<img width="1247" height="271" alt="Hasil print(data info())" src="https://github.com/user-attachments/assets/355e6366-8f86-4855-9dc0-0d986681b066" />
+<img width="1274" height="162" alt="Hasil print(data head())" src="https://github.com/user-attachments/assets/167a6dd6-c932-4680-9729-56b55d498c2d" />
+<img width="1241" height="219" alt="Hasil print(data describe())" src="https://github.com/user-attachments/assets/48277497-0633-4c64-bbe3-43fce2685787" />
+<img width="1249" height="47" alt="Hasil median" src="https://github.com/user-attachments/assets/a4b7c7aa-355a-4546-bc2d-43bd35d9c848" />
+<img width="1242" height="46" alt="Hasil mean" src="https://github.com/user-attachments/assets/fea2990d-5a8b-40f0-9536-b23015e5eab4" />
+<img width="1241" height="176" alt="Hasil groupby maxmin" src="https://github.com/user-attachments/assets/bbed0adf-0266-4de5-844a-20ddbf2fe5c3" />
+
+
+
+
+
+
 
 
