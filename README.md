@@ -1,6 +1,6 @@
 FOTO [output](./images)
 
-🧠 Analisis dan Pertanyaan
+Analisis dan Pertanyaan
 1. Mapel mana yang memiliki rata-rata nilai tertinggi?
  ➡️ Matematika memiliki rata-rata nilai tertinggi, yaitu 91,5.
  (Siswa pada mapel ini umumnya memperoleh nilai di atas 85.)
@@ -13,7 +13,7 @@ FOTO [output](./images)
  ➡️ Visualisasi seperti grafik batang (bar chart) dan boxplot membantu kita melihat perbandingan dan sebaran nilai antar mapel dengan cepat.
  Kita bisa langsung tahu mana mapel yang hasilnya bagus, mana yang perlu ditingkatkan — tanpa harus menghitung satu per satu.
 
-💭 Refleksi Siswa
+Refleksi Siswa
 1. Apa hal baru yang kamu pelajari dari kegiatan analisis dan visualisasi data?
  ➡️ Saya belajar cara menggunakan Python (pandas, matplotlib, seaborn) untuk menganalisis data dan membuat grafik.
  Ternyata data yang awalnya hanya angka bisa jadi lebih mudah dipahami lewat grafik.
