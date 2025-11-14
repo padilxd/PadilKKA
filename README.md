@@ -16,10 +16,65 @@ Refleksi Siswa
 
 3. Menurut kamu AI apa membantu dalam analisis sebuah data? ➡ Ya, AI sangat membantu dalam analisis data. AI bisa menjelaskan hasilnya, memberi saran, bahkan membantu menulis kode Python untuk membuat visualisasi atau menemukan pola dalam data dengan lebih cepat.
 
-✨ Penutup
+✅ 1️⃣ Hasil print(data.info())
 
-Proyek ini dibuat untuk memahami cara menganalisis data sederhana menggunakan Python dan menyajikan hasilnya dalam bentuk visual dan penjelasan.
-Semoga bermanfaat untuk pembelajaran Data Science dasar.
+Data memiliki 22 baris dan 3 kolom:
+
+Nama → tipe object
+
+Matpel → tipe object
+
+Nilai → tipe int64
+
+Tidak ada missing values.
+
+✅ 2️⃣ Hasil print(data.head())
+
+5 data teratas:
+
+Nama	Matpel	Nilai
+Ade	Bahasa Indonesia	87
+Aira	Bahasa Indonesia	88
+Badi	Bahasa Inggris	78
+Cyla	Bahasa Inggris	90
+Khansa	Matematika	98
+✅ 3️⃣ Hasil print(data.describe())
+
+Statistik kolom Nilai:
+
+Count: 22
+
+Mean: 86.2727
+
+Std: 6.706
+
+Min: 75
+
+25%: 85
+
+50% (Median): 87.5
+
+75%: 90
+
+Max: 98
+
+✅ 4️⃣ Mean, Median, Modus
+Keterangan	Nilai
+Mean (rata-rata)	86.27
+Median	87.5
+Modus	85
+✅ 5️⃣ Hasil groupby('Matpel').agg(['max','min'])
+
+Nilai max/min tiap mata pelajaran:
+
+Mata Pelajaran	Max	Min
+Bahasa Indonesia	88	75
+Bahasa Inggris	90	78
+Fisika	95	75
+Matematika	98	85
+Produktif	90	80
+
+
 Hasil Modus<img width="1245" height="48" alt="Hasil  modus" src="https://github.com/user-attachments/assets/c79a0711-a417-4f58-965d-6bd75908d67a" />
 Grafik<img width="1536" height="754" alt="grafik_kka" src="https://github.com/user-attachments/assets/b4a722dc-1c59-47cf-a0d1-5554acfd29bc" />
 Boxplot<img width="1536" height="754" alt="boxplot_kka" src="https://github.com/user-attachments/assets/80bf9297-a550-4844-b38d-db55a779b670" />
@@ -31,7 +86,10 @@ Hasil mean<img width="1242" height="46" alt="Hasil mean" src="https://github.com
 Hasil groupby maxmin<img width="1241" height="176" alt="Hasil groupby maxmin" src="https://github.com/user-attachments/assets/bbed0adf-0266-4de5-844a-20ddbf2fe5c3" />
 
 
+✨ Penutup
 
+Proyek ini dibuat untuk memahami cara menganalisis data sederhana menggunakan Python dan menyajikan hasilnya dalam bentuk visual dan penjelasan.
+Semoga bermanfaat untuk pembelajaran Data Science dasar.
 
 
 
