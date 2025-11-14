@@ -1,3 +1,4 @@
+FOTO 
 🧠 Analisis dan Pertanyaan
 1. Mapel mana yang memiliki rata-rata nilai tertinggi?
  ➡️ Matematika memiliki rata-rata nilai tertinggi, yaitu 91,5.
